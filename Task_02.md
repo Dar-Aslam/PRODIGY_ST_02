@@ -12,7 +12,6 @@
 | **Mobile (Android)**  | Chrome, Firefox, Edge              |  
 | **iPad (iOS)**        | Safari, Chrome, Edge               |  
 | **iPhone (iOS)**      | Safari, Chrome, Edge               |  
-
 ---
 
 ## **1. Desktop - Windows**  
@@ -28,7 +27,7 @@
 *Screenshot:* ![windows-firefox](Images/windows-firefox.png)  
 
 ### **Edge (v136)**  
-- **Identical to Chrome** — no visual or functional issues found 
+- **Identical to Chrome** — no visual or functional issues found  
 *Screenshot:* ![windows-edge](Images/windows-edge.png)
 
 ---
@@ -130,6 +129,8 @@
 
 ## 3. Physical Test Devices
 
+*** 
 
 
+**END OF DOCUMENT**
 
